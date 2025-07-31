@@ -1,4 +1,4 @@
-#Hospital Emergency Room Dashboard – Monthly Report
+# Hospital Emergency Room Dashboard – Monthly Report
 This project provides a comprehensive Power BI dashboard that visualizes key insights from emergency room (ER) operations for the month of June. It is designed to assist hospital administrators and healthcare professionals in monitoring performance and making informed decisions based on real-time data.
 
 # Key Features
