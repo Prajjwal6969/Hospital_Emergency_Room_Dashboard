@@ -1,13 +1,10 @@
-
 🏥 Hospital Emergency Room Dashboard – Monthly Report
 This project provides a comprehensive Power BI dashboard that visualizes key insights from emergency room (ER) operations for the month of June. It is designed to assist hospital administrators and healthcare professionals in monitoring performance and making informed decisions based on real-time data.
 
-📊 Key Features
+# Key Features
 1. Overall Statistics
 Total Patients: 485
-
 Average Wait Time: 35.51 minutes
-
 Patient Satisfaction Score: 4.99 / 5
 
 2. Admission Analysis
