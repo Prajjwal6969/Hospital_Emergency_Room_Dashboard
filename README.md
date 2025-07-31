@@ -54,3 +54,7 @@ Drill-through reports for individual department analysis.
 
 # Created By
 Prajjwal Katiyar
+
+<img width="1035" height="446" alt="Screenshot 2025-07-31 224735" src="https://github.com/user-attachments/assets/9db506b8-9c9b-49fb-a4b6-c9d3438de681" />
+
+
